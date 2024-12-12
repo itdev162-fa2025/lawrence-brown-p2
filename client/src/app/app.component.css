@@ -1,0 +1,23 @@
+body, html {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    background: url(techno-party-lifestyle.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: left;
+    list-style-position: inside;
+    color: #ffff7f;
+}
+
+h1 {
+    color: white;
+    margin-left: 0px;
+    text-align: center;
+}
+
+#list1 {
+    text-indent: 40%;
+}
